@@ -2,7 +2,7 @@
 - 👀 I’m interested in  Games, Mangas, Novels, Classic Movies, and Programming
 - 🌱 I’m currently learning C, Javascript, HTML, and CSS. 
 - 💞️ I’m looking to collaborate on Any of these languages that I am learning 
-- 📫 How to reach me ...
+- 📫 How to reach me Davidg13229@gmail.com
 
 <!---
 Davidg13229/Davidg13229 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
